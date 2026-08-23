@@ -1,3 +1,4 @@
+
 <!-- HEADER BANNER -->
 <div align="center">
   
@@ -11,7 +12,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=70&lines=Hi+there+%F0%9F%91%8B+I'm+Sujal+Kumbhar;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%9A%80;Building+Cool+Stuff+with+Code+%E2%9C%A8;Computer+Science+Engineer+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 </div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Sujal321's GitHub profile" src="dark_mode.svg" />
+</picture>
 <br>
 
 <!-- ABOUT ME SECTION -->
